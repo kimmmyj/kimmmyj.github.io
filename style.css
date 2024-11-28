@@ -36,6 +36,11 @@ p {
   text-align: center;
 }
 
+img {
+  width: 100%
+
+}
+
 .catbread {
   cursor: pointer;
   font-size: 10px;
