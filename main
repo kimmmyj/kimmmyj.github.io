@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Catbread 🐱🍞</title>
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&amp;display=swap'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<form>
+	<input id="catbread" type="checkbox" name="catbread" value="meowing">
+	<label class="catbread" for="catbread">
+		<span class="catbread__sr-text">Catbread</span>
+		<span class="catbread__right-ear"></span>
+		<span class="catbread__left-ear"></span>
+		<span class="catbread__eyes"></span>
+		<span class="catbread__mouth"></span>
+	</label>
+</form>
+<p>Click the bread!</p>
+<!-- partial -->
+  
+</body>
+</html>
